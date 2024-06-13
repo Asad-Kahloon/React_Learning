@@ -12,35 +12,35 @@ function Bg_Changer() {
         style={{ backgroundColor: "#fff" }}
       >
         <div
-          className="px-2 py-1 outline-none px-4 py-1 rounded-3xl"
+          className=" py-1 outline-none px-4  rounded-3xl"
           style={{ backgroundColor: "red" }}
           onClick={() => setColor("red")}
         >
           Red
         </div>
         <div
-          className="px-2 py-1 outline-none px-4 py-1 rounded-3xl"
+          className=" py-1 outline-none px-4  rounded-3xl"
           style={{ backgroundColor: "green" }}
           onClick={() => setColor("green")}
         >
           Green
         </div>
         <div
-          className="px-2 py-1 outline-none px-4 py-1 rounded-3xl"
+          className=" py-1 outline-none px-4  rounded-3xl"
           style={{ backgroundColor: "blue" }}
           onClick={() => setColor("blue")}
         >
           Blue
         </div>
         <div
-          className="px-2 py-1 outline-none px-4 py-1 rounded-3xl"
+          className=" py-1 outline-none px-4  rounded-3xl"
           style={{ backgroundColor: "yellow" }}
           onClick={() => setColor("yellow")}
         >
           Yellow
         </div>
         <div
-          className="px-2 py-1 outline-none px-4 py-1 rounded-3xl"
+          className=" py-1 outline-none px-4  rounded-3xl"
           style={{ backgroundColor: "orange" }}
           onClick={() => setColor("orange")}
         >
