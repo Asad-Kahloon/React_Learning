@@ -1,10 +1,13 @@
+import Login from "./Login";
+import Profile from "./Profile";
 import UserContextProvider from "./context/UserContextProvider";
 
 function Run() {
   return (
     <UserContextProvider>
-      React is important
-      <h1>hii</h1>
+      <h1>React with Chai and share is important</h1>
+      <Login />
+      <Profile />
     </UserContextProvider>
   );
 }
