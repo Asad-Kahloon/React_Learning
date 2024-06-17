@@ -8,7 +8,10 @@
 // import Run from "./Project03/Run";
 
 // Project 04
-import Run from "./Project04/Run";
+// import Run from "./Project04/Run";
+
+// Project 05
+import Run from "./Project05/Run";
 
 function App() {
   return (
@@ -23,6 +26,9 @@ function App() {
       {/* <Run /> */}
 
       {/* Project 04 */}
+      {/* <Run /> */}
+
+      {/* Project 05 */}
       <Run />
     </>
   );
