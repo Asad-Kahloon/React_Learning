@@ -1,9 +1,11 @@
+import UserContextProvider from "./context/UserContextProvider";
+
 function Run() {
   return (
-    <div>
+    <UserContextProvider>
       React is important
       <h1>hii</h1>
-    </div>
+    </UserContextProvider>
   );
 }
 
