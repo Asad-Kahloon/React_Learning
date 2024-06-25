@@ -14,7 +14,10 @@
 // import Run from "./Project05/Run";
 
 // Project 06
-import Run from "./Project06/Run";
+// import Run from "./Project06/Run";
+
+//Todo List
+import Todo from "./Todo_List/Todo";
 
 function App() {
   return (
@@ -35,7 +38,10 @@ function App() {
       {/* <Run /> */}
 
       {/* Project 06 */}
-      <Run />
+      {/* <Run /> */}
+
+      {/* Todo List */}
+      <Todo />
     </>
   );
 }
